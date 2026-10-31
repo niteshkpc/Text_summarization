@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local data and generated model files
+data/
+samsum-train.csv
+samsum-validation.csv
+samsum-test.csv
+results/
+saved_summary_model/
+
+# Jupyter
+.ipynb_checkpoints/

@@ -1,0 +1,5 @@
+accelerate>=1.0,<2
+pandas>=2.0,<4
+sentencepiece>=0.2
+torch>=2.2
+transformers>=4.57,<5
